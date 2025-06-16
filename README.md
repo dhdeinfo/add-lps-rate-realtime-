@@ -1,4 +1,4 @@
-# add-lps-rate-realtime-
+# Add-LPS-rate-realtime-
 Update suku bunga real-time dari website LPS
 
 
@@ -23,4 +23,24 @@ Simpan dengan nama misalnya: `cek-bunga-lps.php`
 
 ---
 
-Kalau kamu mau versi yang bisa dipakai langsung di dalam WordPress sebagai halaman khusus atau Elementor block, saya bisa bantu konversi ke shortcode atau block layout juga.
+**Versi shortcode WordPress**
+
+Berikut adalah versi shortcode WordPress **dengan animasi** (fade-in + smooth scale). Animasi ini hanya pakai CSS ringan, **tanpa library tambahan**, jadi tetap cepat di-load.
+
+---
+
+## ✅ **Versi dengan Animasi (CSS + HTML)**
+
+Tempelkan di Plugin **Code Snippets** seperti sebelumnya:
+
+```
+
+---
+
+## 🔍 Cara Pakai:
+
+* Aktifkan Snippet
+* Gunakan shortcode `[lps_bunga]` di mana pun di WordPress
+* Saat halaman dibuka, ketiga kotak angka akan **muncul dengan efek fade dan scale**
+
+---
