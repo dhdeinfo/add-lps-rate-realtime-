@@ -31,16 +31,23 @@ Berikut adalah versi shortcode WordPress **dengan animasi** (fade-in + smooth sc
 
 ## ✅ **Versi dengan Animasi (CSS + HTML)**
 
-Tempelkan di Plugin **Code Snippets** seperti sebelumnya:
+Tempelkan di Plugin **Code Snippets** :
 
 ```
 
 ---
+🧩 LANGKAH-LANGKAHNYA
+🔧 1. Buka Plugin Code Snippets → Tambah Baru
+Lalu tempelkan script **Shortcode WordPress** >> https://raw.githubusercontent.com/dhdeinfo/add-lps-rate-realtime-/refs/heads/main/Shortcode%20WordPress
 
-## 🔍 Cara Pakai:
+📌 2. Simpan dan Aktifkan Snippet
+Beri nama misalnya: Shortcode **lps_bunga**
 
-* Aktifkan Snippet
-* Gunakan shortcode `[lps_bunga]` di mana pun di WordPress
-* Saat halaman dibuka, ketiga kotak angka akan **muncul dengan efek fade dan scale**
+Pilih “**Run snippet everywhere**” (biar bisa dipakai di semua halaman)
 
----
+Klik “**Save and Activate**”
+
+✅ CARA PAKAI
+Masukkan shortcode ini ke halaman, post, atau widget:
+**[lps_bunga]**
+
